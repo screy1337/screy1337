@@ -5,6 +5,8 @@
 <a href="https://discord.com/users/339975299296919553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="screy" height="30" width="40" /></a>
 </p>
 
+[![Github Page](https://komarev.com/ghpvc/?username=screy1337&color=131313)](https://github.com/screy1337)
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
