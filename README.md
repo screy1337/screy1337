@@ -1,8 +1,8 @@
 <h1 align="center">screy</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/screyxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="screyxd" height="30" width="40" /></a>
-<a href="https://discord.com/users/752194462851268638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="screy" height="30" width="40" /></a>
+<a href="https://instagram.com/yigitx_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="screyxd" height="30" width="40" /></a>
+<a href="https://discord.com/users/1536432780827697204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="screy" height="30" width="40" /></a>
 </p>
 
 [![Github Page](https://komarev.com/ghpvc/?username=screy1337&color=131313)](https://github.com/screy1337)
